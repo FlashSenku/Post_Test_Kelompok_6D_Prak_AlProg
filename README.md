@@ -49,6 +49,9 @@ Berdasarkan seluruh hasil grafik dapat disimpulkan bahwa tingkat ketimpangan eko
 
 # Teknologi & Library yang Digunakan
 Bahasa Pemograman : Python
+
 Library Visualisasi : Matplotlib & Seaborn
+
 Compiler : Google Colab
+
 Pengolah Data : Pandas
