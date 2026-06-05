@@ -17,7 +17,7 @@ Dalam proyek ini, kami mengamati bagaimana kondisi ekonomi suatu negara berpenga
 <img width="984" height="489" alt="Kategori A" src="https://github.com/user-attachments/assets/e4773406-7f58-42f1-a4f3-bf57490bce3d" />
 
 
-Grafik ini membandingkan nilai minimum dan maksimum kesenjangan pendapatan di berbagai belahan dunia sehingga terlihat jelas adanya perbedaan struktural yang signifikan dalam pemerataan kesejahteraan antar-wilayah.
+Grafik ini membandingkan nilai minimum dan maksimum kesenjangan pendapatan di berbagai belahan dunia sehingga terlihat jelas adanya perbedaan struktural yang signifikan dalam pemerataan kesejahteraan antar wilayah.
 
 # Kategori B (Tren/Filter) Negara GDP Tinggi, Kepuasan Rendah
 <img width="790" height="490" alt="Kategori B" src="https://github.com/user-attachments/assets/a7053c3c-efb8-4adc-b75f-105104909da5" />
