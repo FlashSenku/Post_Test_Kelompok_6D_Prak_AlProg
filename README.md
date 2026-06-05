@@ -35,6 +35,8 @@ Grafik ini memetakan rentang dan distribusi nilai kebahagiaan global secara meny
 # Gabungan Grafik
 <img width="1579" height="1190" alt="Gabungan" src="https://github.com/user-attachments/assets/2de2713d-3341-4e4d-96d4-050226b72432" />
 
+# Kesimpulan
+Berdasarkan seluruh hasil grafik dapat disimpulkan bahwa tingkat ketimpangan ekonomi global memiliki perbedaan struktural yang sangat signifikan antar wilayah. Selain itu, pertumbuhan ekonomi yang kuat atau GDP tinggi terbukti tidak selalu menjamin tingginya kepuasan hidup masyarakat sehingga memunculkan beberapa anomali di sejumlah negara. Namun, kelompok masyarakat dengan pendapatan rata-rata yang tinggi terbukti memiliki tingkat kepuasan hidup yang jauh lebih stabil dan konsisten dibandingkan kelompok berpendapatan rendah. Pada akhirnya, evaluasi secara menyeluruh menunjukkan bahwa seluruh skor kebahagiaan dunia saat ini masih tersebar secara normal dalam batas wajar tanpa adanya data yang menyimpang secara ekstrem.
 
 # Teknologi & Library yang Digunakan
 Bahasa Pemograman : Python
