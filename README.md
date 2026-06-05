@@ -23,7 +23,7 @@ Grafik ini membandingkan nilai minimum dan maksimum kesenjangan pendapatan di be
 <img width="790" height="490" alt="Kategori B" src="https://github.com/user-attachments/assets/a7053c3c-efb8-4adc-b75f-105104909da5" />
 
 
-Grafik ini menunjukkan beberapa negara dengan pertumbuhan ekonomi di atas rata-rata global namun memiliki tingkat kepuasan hidup yang rendah, sehingga membuktikan bahwa tingginya kekayaan finansial negara tidak selalu menjamin kebahagiaan batin warganya.
+Grafik ini menunjukkan beberapa negara dengan pertumbuhan ekonomi di atas rata-rata global namun memiliki tingkat kepuasan hidup yang rendah sehingga membuktikan bahwa tingginya kekayaan finansial negara tidak selalu menjamin kebahagiaan batin warganya.
 
 
 # Kategori C (Korelasi) Pengaruh Pendapatan pada Kepuasan
